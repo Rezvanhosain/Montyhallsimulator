@@ -1,0 +1,4 @@
+1. Open the path C:\Users\user\Documents\my-app\src using File Explorer
+2. Navigate to the desired folder in File Explorer, type cmd in the address bar, and press Enter. This will open the command prompt directly in that location. 
+3. In CMD, Type npm start
+4. This will open the app in Browser.
